@@ -3,6 +3,7 @@
 #include<math.h>
 int main(){
 	int i,j,n,distance=0;
+	//print domessf
 	printf("\Enter the total number of requests: \n");
 	scanf("%d",&n);
 	int arr[n];
